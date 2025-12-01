@@ -40,8 +40,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Shihab's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Shihab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shihabmohammed8&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihabmohammed8&layout=compact)
 
 ---
 
