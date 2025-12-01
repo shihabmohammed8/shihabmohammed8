@@ -40,8 +40,11 @@
 ---
 
 ## 📈 GitHub Stats
-![Shihab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shihabmohammed8&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihabmohammed8&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shihabmohammed8&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihabmohammed8&layout=compact&theme=tokyonight" height="165">
+</p>
 
 ---
 
@@ -54,6 +57,5 @@
 ---
 
 ## 📫 Reach Me  
-📧 **Email:** shihabmohammed91@gmail.com    
-🐙 **GitHub:** github.com/shihabmohammed8 
-
+📧 **Email:** shihabmohammed91@gmail.com**  
+🐙 **GitHub:** https://github.com/shihabmohammed8
