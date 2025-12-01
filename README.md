@@ -39,14 +39,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shihabmohammed8&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihabmohammed8&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
 
 ## 🌱 What I'm Working On
 - Machine learning classification projects  
