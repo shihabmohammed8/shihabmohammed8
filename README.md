@@ -42,3 +42,9 @@
 📧 **Email:** shihabmohammed91@gmail.com 
 
 🐙 **GitHub:** https://github.com/shihabmohammed8
+
+
+![Shihab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
+
