@@ -23,6 +23,20 @@
 
 ---
 
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shihabmohammed8&show_icons=true&theme=radical)
+
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shihabmohammed8&layout=compact&theme=radical)
+
+
+
+
+---
+
 ## 🌱 What I'm Working On
 - Machine learning classification projects  
 - Deep learning for medical image analysis  
@@ -42,9 +56,5 @@
 📧 **Email:** shihabmohammed91@gmail.com 
 
 🐙 **GitHub:** https://github.com/shihabmohammed8
-
-
-![Shihab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 
 
